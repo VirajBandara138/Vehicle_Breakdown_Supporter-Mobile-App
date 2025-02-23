@@ -1,4 +1,4 @@
-# OneSpot Autocare - Roadside Assistance App
+# OnSpot Autocare - Roadside Assistance App
 
 ## 1. Problem Definition / Motivation / Solution
 
